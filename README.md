@@ -1,2 +1,0 @@
-# JADE-Website-
-Practice website 
