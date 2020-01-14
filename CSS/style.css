@@ -3,7 +3,7 @@ img{
 }
 
 p{
-	color: red;
+	color: orange;
 }
 
 .font-size-medium{
@@ -11,10 +11,39 @@ p{
 }
 
 .blue-text{
+	color: orange;
+}
+
+.loll{
+	font-size:100px;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	
+}
+.blue{
 	color: blue;
 }
 
-#this-header{
-	font-size:100px;
+.font-C{
+	font-family: 'Roboto', sans-serif;
+}
 
+.container-color{
+	background-color: #DBB1BC
+}
+
+.container-color2{
+	background-color: #D3C4E3
+}
+
+.container-color3{
+	background-color: #8F95D3
+}
+
+.text-center{
+	text-align: center;
+}
+
+div{
+	padding: 0.1pt
 }
